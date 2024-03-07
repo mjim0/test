@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Geolocation Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        #map {
+            width: 80%;
+            height: 400px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+<h1>Your Coordinates</h1>
+<p id="coordinates">Loading...</p>
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function initMap(latitude, longitude) {
+        var map = L.map('map').setView([latitude, longitude], 15);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+        L.marker([latitude, longitude]).addTo(map)
+            .bindPopup('Your Location')
+            .openPopup();
+
+        // Send coordinates to backend using AJAX
+        $.ajax({
+            type: "POST",
+            url: "backend.php",
+            contentType: "application/json",
+            data: JSON.stringify({ "latitude": latitude, "longitude": longitude }),
+            success: function(response) {
+                console.log(response); // Log the response from backend (optional)
+            }
+        });
+    }
+
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function(position) {
+            var coordinates = document.getElementById('coordinates');
+            coordinates.innerHTML = 'Latitude: ' + position.coords.latitude + '<br>Longitude: ' + position.coords.longitude;
+            // Initialize map
+            initMap(position.coords.latitude, position.coords.longitude);
+        }, function(error) {
+            var coordinates = document.getElementById('coordinates');
+            coordinates.innerHTML = 'Error: ' + error.message;
+        });
+    } else {
+        document.getElementById('coordinates').innerHTML = 'Geolocation is not supported by this browser.';
+    }
+</script>
+</body>
+</html>
