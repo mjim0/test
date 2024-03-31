@@ -1,0 +1,4760 @@
+{
+    "LOCKWOOD-Room-WEB-B01": [
+      [
+        0.3631535947712418,
+        0.3327020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B25",
+        "LOCKWOOD-Room-WEB-B02"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B02": [
+      [
+        0.37254901960784315,
+        0.24810606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B01",
+        "LOCKWOOD-Room-WEB-B05"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B02A": [
+      [
+        0.3194444444444444,
+        0.24810606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB11",
+        "LOCKWOOD-Room-WEB-B03B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B03": [
+      [
+        0.3925653594771242,
+        0.15782828282828287
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B03A",
+        "LOCKWOOD-Room-WEB-B03C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B03A": [
+      [
+        0.3341503267973856,
+        0.1502525252525253
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B03B",
+        "LOCKWOOD-Room-WEB-B03"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B03B": [
+      [
+        0.30269607843137253,
+        0.19255050505050508
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B02A",
+        "LOCKWOOD-Room-WEB-B03A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B03C": [
+      [
+        0.41299019607843135,
+        0.12058080808080807
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B03",
+        "LOCKWOOD-Room-WEB-B04"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B04": [
+      [
+        0.4444444444444444,
+        0.16414141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10R",
+        "LOCKWOOD-Room-WEB-B03C",
+        "LOCKWOOD-Room-WEB-B10P"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B05": [
+      [
+        0.4440359477124183,
+        0.2727272727272727
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B02",
+        "LOCKWOOD-Room-WEB-CB09"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B06": [
+      [
+        0.4338235294117647,
+        0.32386363636363635
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB09",
+        "LOCKWOOD-Room-WEB-EB08",
+        "LOCKWOOD-Room-WEB-B07"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B07": [
+      [
+        0.4338235294117647,
+        0.36363636363636365
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B06",
+        "LOCKWOOD-Room-WEB-B10A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10": [
+      [
+        0.497140522875817,
+        0.226010101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10K",
+        "LOCKWOOD-Room-WEB-B10J",
+        "LOCKWOOD-Room-WEB-B10M",
+        "LOCKWOOD-Room-WEB-B10F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10A": [
+      [
+        0.48856209150326796,
+        0.36363636363636365
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B07",
+        "LOCKWOOD-Room-WEB-B10C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10B": [
+      [
+        0.4869281045751634,
+        0.31313131313131315
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10C",
+        "LOCKWOOD-Room-WEB-B10G"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10C": [
+      [
+        0.5388071895424836,
+        0.36489898989898994
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10A",
+        "LOCKWOOD-Room-WEB-EB08",
+        "LOCKWOOD-Room-WEB-B10B",
+        "LOCKWOOD-Room-WEB-B10D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10D": [
+      [
+        0.5388071895424836,
+        0.3314393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10E",
+        "LOCKWOOD-Room-WEB-B10C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10E": [
+      [
+        0.5388071895424836,
+        0.29734848484848486
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10D",
+        "LOCKWOOD-Room-WEB-B20",
+        "LOCKWOOD-Room-WEB-B10F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10F": [
+      [
+        0.5363562091503268,
+        0.22664141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20C",
+        "LOCKWOOD-Room-WEB-B10E",
+        "LOCKWOOD-Room-WEB-B10"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10G": [
+      [
+        0.4750816993464052,
+        0.2550505050505051
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10H",
+        "LOCKWOOD-Room-WEB-B10B"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-B10H": [
+      [
+        0.4930555555555556,
+        0.2550505050505051
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10J",
+        "LOCKWOOD-Room-WEB-B10G"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10J": [
+      [
+        0.4930555555555556,
+        0.23484848484848486
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10",
+        "LOCKWOOD-Room-WEB-B10H"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10K": [
+      [
+        0.4750816993464052,
+        0.23484848484848486
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10L",
+        "LOCKWOOD-Room-WEB-B10"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10L": [
+      [
+        0.4750816993464052,
+        0.19696969696969702
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10M",
+        "LOCKWOOD-Room-WEB-B10K"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10M": [
+      [
+        0.4930555555555556,
+        0.19696969696969702
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10N",
+        "LOCKWOOD-Room-WEB-B10L",
+        "LOCKWOOD-Room-WEB-B10"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10N": [
+      [
+        0.4930555555555556,
+        0.17803030303030298
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10P",
+        "LOCKWOOD-Room-WEB-B10M"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10P": [
+      [
+        0.4750816993464052,
+        0.17803030303030298
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B04",
+        "LOCKWOOD-Room-WEB-B10N"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10Q": [
+      [
+        0.47998366013071897,
+        0.12689393939393945
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10T",
+        "LOCKWOOD-Room-WEB-B10R"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10R": [
+      [
+        0.47998366013071897,
+        0.10037878787878785
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10S",
+        "LOCKWOOD-Room-WEB-B10Q",
+        "LOCKWOOD-Room-WEB-B04"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10S": [
+      [
+        0.49468954248366015,
+        0.10037878787878785
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B21",
+        "LOCKWOOD-Room-WEB-B10R",
+        "LOCKWOOD-Room-WEB-B10T"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B10T": [
+      [
+        0.49468954248366015,
+        0.12689393939393945
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10S",
+        "LOCKWOOD-Room-WEB-B10Q"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20": [
+      [
+        0.5629084967320261,
+        0.2796717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B10E",
+        "LOCKWOOD-Room-WEB-B20B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20A": [
+      [
+        0.6209150326797386,
+        0.37310606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26D",
+        "LOCKWOOD-Room-WEB-EB10"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20B": [
+      [
+        0.6213235294117647,
+        0.24368686868686873
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20",
+        "LOCKWOOD-Room-WEB-B20D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20C": [
+      [
+        0.5633169934640523,
+        0.15467171717171713
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B23",
+        "LOCKWOOD-Room-WEB-B22",
+        "LOCKWOOD-Room-WEB-B10F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20D": [
+      [
+        0.6339869281045751,
+        0.12878787878787878
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20B",
+        "LOCKWOOD-Room-WEB-B20E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B20E": [
+      [
+        0.6033496732026143,
+        0.12689393939393945
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20D",
+        "LOCKWOOD-Room-WEB-SB24"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B21": [
+      [
+        0.5171568627450981,
+        0.11931818181818177
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B22",
+        "LOCKWOOD-Room-WEB-B10S"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B22": [
+      [
+        0.5396241830065359,
+        0.11931818181818177
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20C",
+        "LOCKWOOD-Room-WEB-B21"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B23": [
+      [
+        0.5633169934640523,
+        0.1382575757575758
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B23A",
+        "LOCKWOOD-Room-WEB-B20C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B23A": [
+      [
+        0.5661764705882353,
+        0.12689393939393945
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB24",
+        "LOCKWOOD-Room-WEB-B23"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B25": [
+      [
+        0.30392156862745096,
+        0.36616161616161613
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB12",
+        "LOCKWOOD-Room-WEB-SB11",
+        "LOCKWOOD-Room-WEB-B01"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26A": [
+      [
+        0.5081699346405228,
+        0.6723484848484849
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB39",
+        "LOCKWOOD-Room-WEB-CB27"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26B": [
+      [
+        0.5571895424836601,
+        0.577020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26E",
+        "LOCKWOOD-Room-WEB-CB26"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26C": [
+      [
+        0.46977124183006536,
+        0.5404040404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB48",
+        "LOCKWOOD-Room-WEB-CB39"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26D": [
+      [
+        0.6315359477124183,
+        0.5075757575757576
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB26",
+        "LOCKWOOD-Room-WEB-B20A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26E": [
+      [
+        0.6290849673202614,
+        0.639520202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26M",
+        "LOCKWOOD-Room-WEB-B26B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26F": [
+      [
+        0.5420751633986928,
+        0.797979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB27",
+        "LOCKWOOD-Room-WEB-B31",
+        "LOCKWOOD-Room-WEB-B30A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26G": [
+      [
+        0.4959150326797386,
+        0.43434343434343436
+      ],
+      [
+        "LOCKWOOD-Room-WEB-EB10",
+        "LOCKWOOD-Room-WEB-CB48"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26H": [
+      [
+        0.43504901960784315,
+        0.5069444444444444
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B48",
+        "LOCKWOOD-Room-WEB-CB48"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B26M": [
+      [
+        0.6633986928104575,
+        0.6616161616161615
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB27",
+        "LOCKWOOD-Room-WEB-B26E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B28": [
+      [
+        0.6429738562091504,
+        0.7133838383838385
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B29",
+        "LOCKWOOD-Room-WEB-SB27"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B29": [
+      [
+        0.6552287581699346,
+        0.7525252525252525
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B29A",
+        "LOCKWOOD-Room-WEB-B28"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B29A": [
+      [
+        0.6552287581699346,
+        0.7878787878787878
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B30",
+        "LOCKWOOD-Room-WEB-B29"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B30": [
+      [
+        0.6568627450980392,
+        0.8314393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B30A",
+        "LOCKWOOD-Room-WEB-B29A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B30A": [
+      [
+        0.6564542483660131,
+        0.8731060606060606
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B30",
+        "LOCKWOOD-Room-WEB-B26F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B31": [
+      [
+        0.4084967320261438,
+        0.8680555555555556
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26F",
+        "LOCKWOOD-Room-WEB-B32"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B32": [
+      [
+        0.4089052287581699,
+        0.8150252525252525
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B31",
+        "LOCKWOOD-Room-WEB-B34A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B33": [
+      [
+        0.4366830065359477,
+        0.7323232323232323
+      ],
+      [
+        "LOCKWOOD-Room-WEB-EB36"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B34": [
+      [
+        0.38562091503267976,
+        0.744949494949495
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B34A",
+        "LOCKWOOD-Room-WEB-B35"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B34A": [
+      [
+        0.39215686274509803,
+        0.7796717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B32",
+        "LOCKWOOD-Room-WEB-B34"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B35": [
+      [
+        0.3925653594771242,
+        0.7178030303030303
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B34",
+        "LOCKWOOD-Room-WEB-SB39"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B40": [
+      [
+        0.36151960784313725,
+        0.6414141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB39",
+        "LOCKWOOD-Room-WEB-B42"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B41": [
+      [
+        0.3709150326797386,
+        0.5523989898989898
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B43",
+        "LOCKWOOD-Room-WEB-B44"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B42": [
+      [
+        0.3709150326797386,
+        0.5890151515151515
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B40",
+        "LOCKWOOD-Room-WEB-B43"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B43": [
+      [
+        0.3492647058823529,
+        0.5827020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B42",
+        "LOCKWOOD-Room-WEB-B41"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B44": [
+      [
+        0.34967320261437906,
+        0.5284090909090908
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B41",
+        "LOCKWOOD-Room-WEB-B45"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B45": [
+      [
+        0.3709150326797386,
+        0.5183080808080809
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B44",
+        "LOCKWOOD-Room-WEB-B48",
+        "LOCKWOOD-Room-WEB-B46"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B46": [
+      [
+        0.36151960784313725,
+        0.4564393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B45",
+        "LOCKWOOD-Room-WEB-SB47"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-B48": [
+      [
+        0.4040032679738562,
+        0.5132575757575757
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B45",
+        "LOCKWOOD-Room-WEB-B26H"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB09": [
+      [
+        0.4338235294117647,
+        0.31186868686868685
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B05",
+        "LOCKWOOD-Room-WEB-B06"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB12": [
+      [
+        0.27655228758169936,
+        0.3926767676767676
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB47",
+        "LOCKWOOD-Room-WEB-B25",
+        "LOCKWOOD-TUNNEL-TO-BALDY"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB26": [
+      [
+        0.5661764705882353,
+        0.5404040404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26B",
+        "LOCKWOOD-Room-WEB-B26D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB27": [
+      [
+        0.5514705882352942,
+        0.7651515151515151
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26A",
+        "LOCKWOOD-Room-WEB-B26F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB39": [
+      [
+        0.43504901960784315,
+        0.6565656565656566
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26C",
+        "LOCKWOOD-Room-WEB-B26A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-CB48": [
+      [
+        0.4652777777777778,
+        0.5296717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B26G",
+        "LOCKWOOD-Room-WEB-B26C",
+        "LOCKWOOD-Room-WEB-B26H"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-EB08": [
+      [
+        0.4554738562091503,
+        0.3137626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B06",
+        "LOCKWOOD-Room-WEB-B10C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-EB10": [
+      [
+        0.5592320261437909,
+        0.42361111111111116
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20A",
+        "LOCKWOOD-Room-WEB-B26G"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-EB36": [
+      [
+        0.44362745098039214,
+        0.7083333333333333
+      ],
+      [
+        "LOCKWOOD-Room-WEB-EB37",
+        "LOCKWOOD-Room-WEB-B33"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-EB37": [
+      [
+        0.4285130718954248,
+        0.6862373737373737
+      ],
+      [
+        "LOCKWOOD-Room-WEB-EB38",
+        "LOCKWOOD-Room-WEB-EB36"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-EB38": [
+      [
+        0.41544117647058826,
+        0.6672979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-SB39",
+        "LOCKWOOD-Room-WEB-EB37"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-SB11": [
+      [
+        0.30106209150326796,
+        0.3162878787878788
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B25",
+        "LOCKWOOD-Room-WEB-B02A",
+        "LOCKWOOD-Room-WEB-S107"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-SB24": [
+      [
+        0.5698529411764706,
+        0.11047979797979801
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B20E",
+        "LOCKWOOD-Room-WEB-B23A",
+        "LOCKWOOD-Room-WEB-S114"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-SB27": [
+      [
+        0.6744281045751634,
+        0.702020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B28",
+        "LOCKWOOD-Room-WEB-B26M",
+        "LOCKWOOD-Room-WEB-S150"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-SB39": [
+      [
+        0.3925653594771242,
+        0.6893939393939394
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B35",
+        "LOCKWOOD-Room-WEB-EB38",
+        "LOCKWOOD-Room-WEB-B40",
+        "LOCKWOOD-Room-WEB-S129"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-SB47": [
+      [
+        0.4035947712418301,
+        0.44381313131313127
+      ],
+      [
+        "LOCKWOOD-Room-WEB-B46",
+        "LOCKWOOD-Room-WEB-CB12",
+        "LOCKWOOD-Room-WEB-S102"
+      ]
+    ],
+    "LOCKWOOD-TUNNEL-TO-BALDY": [
+      [
+        0.2566006600660066,
+        0.3852040816326531
+      ],
+      [
+        "LOCKWOOD-Room-WEB-CB12"
+      ]
+    ],
+  
+  
+    "LOCKWOOD-Room-WEB-101": [
+      [
+        0.40931372549019607,
+        0.2032828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103A",
+        "LOCKWOOD-C107",
+        "LOCKWOOD-Room-WEB-S107"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-103": [
+      [
+        0.39869281045751637,
+        0.3327020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-105",
+        "LOCKWOOD-Room-WEB-S102",
+        "LOCKWOOD-Room-WEB-120"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-103A": [
+      [
+        0.41625816993464054,
+        0.09659090909090906
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103B",
+        "LOCKWOOD-Room-WEB-101"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-103B": [
+      [
+        0.49387254901960786,
+        0.09659090909090906
+      ],
+      [
+        "LOCKWOOD-Room-WEB-111",
+        "LOCKWOOD-Room-WEB-103A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-103C": [
+      [
+        0.565359477124183,
+        0.20454545454545459
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C107",
+        "LOCKWOOD-Room-WEB-C101B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-103D": [
+      [
+        0.6584967320261438,
+        0.10732323232323238
+      ],
+      [
+        "LOCKWOOD-Room-WEB-115"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-105": [
+      [
+        0.3492647058823529,
+        0.3579545454545454
+      ],
+      [
+        "LOCKWOOD-Room-WEB-105A",
+        "LOCKWOOD-Room-WEB-103"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-105A": [
+      [
+        0.3312908496732026,
+        0.3402777777777778
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S107",
+        "LOCKWOOD-Room-WEB-105"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-106": [
+      [
+        0.35375816993464054,
+        0.3125
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S107"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-108": [
+      [
+        0.3582516339869281,
+        0.23863636363636365
+      ],
+      [
+        "LOCKWOOD-C107",
+        "LOCKWOOD-Room-WEB-108A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-108A": [
+      [
+        0.3312908496732026,
+        0.23611111111111116
+      ],
+      [
+        "LOCKWOOD-Room-WEB-108"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-109": [
+      [
+        0.3472222222222222,
+        0.1647727272727273
+      ],
+      [
+        "LOCKWOOD-C107",
+        "LOCKWOOD-Room-WEB-109A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-109A": [
+      [
+        0.3410947712418301,
+        0.20517676767676762
+      ],
+      [
+        "LOCKWOOD-Room-WEB-109"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-110": [
+      [
+        0.3472222222222222,
+        0.0877525252525253
+      ],
+      [
+        "LOCKWOOD-C107"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-111": [
+      [
+        0.5396241830065359,
+        0.09595959595959591
+      ],
+      [
+        "LOCKWOOD-Room-WEB-112",
+        "LOCKWOOD-Room-WEB-103B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-112": [
+      [
+        0.5620915032679739,
+        0.09595959595959591
+      ],
+      [
+        "LOCKWOOD-Room-WEB-113A",
+        "LOCKWOOD-Room-WEB-111"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-113": [
+      [
+        0.5943627450980392,
+        0.11489898989898994
+      ],
+      [
+        "LOCKWOOD-Room-WEB-113A",
+        "LOCKWOOD-Room-WEB-S114"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-113A": [
+      [
+        0.5751633986928104,
+        0.13068181818181823
+      ],
+      [
+        "LOCKWOOD-Room-WEB-115",
+        "LOCKWOOD-Room-WEB-113",
+        "LOCKWOOD-Room-WEB-112"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-115": [
+      [
+        0.6229575163398693,
+        0.10542929292929293
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103D",
+        "LOCKWOOD-Room-WEB-113A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-116": [
+      [
+        0.5804738562091504,
+        0.29987373737373735
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C101B",
+        "LOCKWOOD-Room-WEB-117"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-117": [
+      [
+        0.5592320261437909,
+        0.3005050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-116",
+        "LOCKWOOD-Room-WEB-118"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-118": [
+      [
+        0.5363562091503268,
+        0.3005050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-117",
+        "LOCKWOOD-Room-WEB-119"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-119": [
+      [
+        0.5089869281045751,
+        0.3005050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-118",
+        "LOCKWOOD-Room-WEB-119A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-119A": [
+      [
+        0.49836601307189543,
+        0.29292929292929293
+      ],
+      [
+        "LOCKWOOD-Room-WEB-119"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-120": [
+      [
+        0.4660947712418301,
+        0.3301767676767676
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103",
+        "LOCKWOOD-Room-WEB-E119"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-130": [
+      [
+        0.4170751633986928,
+        0.6275252525252526
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S129",
+        "LOCKWOOD-Room-WEB-E132",
+        "LOCKWOOD-C101A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-134": [
+      [
+        0.5396241830065359,
+        0.6553030303030303
+      ],
+      [
+        "LOCKWOOD-Room-WEB-136",
+        "LOCKWOOD-Room-WEB-137",
+        "LOCKWOOD-Room-WEB-C101A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-134A": [
+      [
+        0.40522875816993464,
+        0.7866161616161617
+      ],
+      [
+        "LOCKWOOD-Room-WEB-134B",
+        "LOCKWOOD-Room-WEB-153"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-134B": [
+      [
+        0.5833333333333334,
+        0.7840909090909091
+      ],
+      [
+        "LOCKWOOD-Room-WEB-148",
+        "LOCKWOOD-Room-WEB-134A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-134C": [
+      [
+        0.5947712418300654,
+        0.571969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-145A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-135": [
+      [
+        0.4991830065359477,
+        0.6672979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C131",
+        "LOCKWOOD-Room-WEB-136"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-136": [
+      [
+        0.5204248366013072,
+        0.6672979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-135",
+        "LOCKWOOD-Room-WEB-134"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-137": [
+      [
+        0.5412581699346405,
+        0.6672979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-134",
+        "LOCKWOOD-Room-WEB-138"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-138": [
+      [
+        0.5629084967320261,
+        0.6672979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-137"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-140": [
+      [
+        0.6368464052287581,
+        0.4375
+      ],
+      [
+        "LOCKWOOD-Room-WEB-142",
+        "LOCKWOOD-Room-WEB-143"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-142": [
+      [
+        0.6127450980392157,
+        0.4046717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E141",
+        "LOCKWOOD-Room-WEB-140"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-143": [
+      [
+        0.6678921568627451,
+        0.4696969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-140",
+        "LOCKWOOD-Room-WEB-144"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-144": [
+      [
+        0.6691176470588235,
+        0.5340909090909092
+      ],
+      [
+        "LOCKWOOD-Room-WEB-143",
+        "LOCKWOOD-Room-WEB-C145"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-145A": [
+      [
+        0.6315359477124183,
+        0.6111111111111112
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C145",
+        "LOCKWOOD-Room-WEB-134C",
+        "LOCKWOOD-Room-WEB-146"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-146": [
+      [
+        0.6776960784313726,
+        0.5965909090909092
+      ],
+      [
+        "LOCKWOOD-Room-WEB-145A",
+        "LOCKWOOD-Room-WEB-147"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-147": [
+      [
+        0.6670751633986928,
+        0.6268939393939394
+      ],
+      [
+        "LOCKWOOD-Room-WEB-146",
+        "LOCKWOOD-Room-WEB-149"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-148": [
+      [
+        0.6503267973856209,
+        0.7443181818181819
+      ],
+      [
+        "LOCKWOOD-Room-WEB-152",
+        "LOCKWOOD-Room-WEB-134B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-149": [
+      [
+        0.6658496732026143,
+        0.6691919191919191
+      ],
+      [
+        "LOCKWOOD-Room-WEB-147",
+        "LOCKWOOD-Room-WEB-S150"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-151": [
+      [
+        0.6776960784313726,
+        0.7297979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S150",
+        "LOCKWOOD-Room-WEB-152"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-152": [
+      [
+        0.6776960784313726,
+        0.7638888888888888
+      ],
+      [
+        "LOCKWOOD-Room-WEB-151",
+        "LOCKWOOD-Room-WEB-148"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-153": [
+      [
+        0.40808823529411764,
+        0.696969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-134A",
+        "LOCKWOOD-Room-WEB-S129"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-154": [
+      [
+        0.45669934640522875,
+        0.711489898989899
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E155",
+        "LOCKWOOD-Room-WEB-C131"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C101": [
+      [
+        0.4256535947712418,
+        0.4823232323232324
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S102",
+        "LOCKWOOD-C101A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C101A": [
+      [
+        0.5126633986928104,
+        0.615530303030303
+      ],
+      [
+        "LOCKWOOD-Room-WEB-134"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C101B": [
+      [
+        0.5784313725490197,
+        0.25757575757575757
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103C",
+        "LOCKWOOD-Room-WEB-116"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C107": [
+      [
+        0.48447712418300654,
+        0.22664141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E119",
+        "LOCKWOOD-Room-WEB-103C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C131": [
+      [
+        0.4571078431372549,
+        0.6363636363636364
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E132",
+        "LOCKWOOD-Room-WEB-E133",
+        "LOCKWOOD-Room-WEB-154",
+        "LOCKWOOD-Room-WEB-135"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C145": [
+      [
+        0.6458333333333334,
+        0.595959595959596
+      ],
+      [
+        "LOCKWOOD-Room-WEB-144",
+        "LOCKWOOD-Room-WEB-145A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E119": [
+      [
+        0.4783496732026144,
+        0.2910353535353535
+      ],
+      [
+        "LOCKWOOD-Room-WEB-120",
+        "LOCKWOOD-Room-WEB-C107"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E132": [
+      [
+        0.4383169934640523,
+        0.6458333333333333
+      ],
+      [
+        "LOCKWOOD-Room-WEB-130",
+        "LOCKWOOD-Room-WEB-C131"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E133": [
+      [
+        0.45179738562091504,
+        0.6622474747474747
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C131",
+        "LOCKWOOD-Room-WEB-E155"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E141": [
+      [
+        0.5821078431372549,
+        0.40214646464646464
+      ],
+      [
+        "LOCKWOOD-C101B",
+        "LOCKWOOD-Room-WEB-142"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E155": [
+      [
+        0.46200980392156865,
+        0.6811868686868687
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E133",
+        "LOCKWOOD-Room-WEB-154"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S102": [
+      [
+        0.42606209150326796,
+        0.4204545454545454
+      ],
+      [
+        "LOCKWOOD-Room-WEB-103",
+        "LOCKWOOD-Room-WEB-C101",
+        "LOCKWOOD-C101B",
+        "LOCKWOOD-Room-WEB-S219",
+        "LOCKWOOD-Room-WEB-SB47"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S107": [
+      [
+        0.33619281045751637,
+        0.2922979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-101",
+        "LOCKWOOD-Room-WEB-106",
+        "LOCKWOOD-Room-WEB-105A",
+        "LOCKWOOD-Room-WEB-S204",
+        "LOCKWOOD-Room-WEB-SB11"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S114": [
+      [
+        0.5927287581699346,
+        0.086489898989899
+      ],
+      [
+        "LOCKWOOD-Room-WEB-113",
+        "LOCKWOOD-Room-WEB-S210",
+        "LOCKWOOD-Room-WEB-SB24"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-S129": [
+      [
+        0.42116013071895425,
+        0.6761363636363636
+      ],
+      [
+        "LOCKWOOD-Room-WEB-153",
+        "LOCKWOOD-Room-WEB-130",
+        "LOCKWOOD-Room-WEB-S241",
+        "LOCKWOOD-Room-WEB-SB39"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S150": [
+      [
+        0.6842320261437909,
+        0.678030303030303
+      ],
+      [
+        "LOCKWOOD-Room-WEB-149",
+        "LOCKWOOD-Room-WEB-151",
+        "LOCKWOOD-Room-WEB-S224",
+        "LOCKWOOD-Room-WEB-SB27"
+      ]
+    ],
+    "LOCKWOOD-C107": [
+      [
+        0.382013201320132,
+        0.16581632653061223
+      ],
+      [
+        "LOCKWOOD-Room-WEB-101",
+        "LOCKWOOD-Room-WEB-110",
+        "LOCKWOOD-Room-WEB-109",
+        "LOCKWOOD-Room-WEB-108"
+      ]
+    ],
+    "LOCKWOOD-C101B": [
+      [
+        0.5470297029702971,
+        0.35459183673469385
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S102",
+        "LOCKWOOD-Room-WEB-E141"
+      ]
+    ],
+    "LOCKWOOD-C101A": [
+      [
+        0.3811881188118812,
+        0.5433673469387755
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C101",
+        "LOCKWOOD-Room-WEB-130"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-203": [
+      [
+        0.2569444444444444,
+        0.38888888888888884
+      ],
+      [
+        "LOCKWOOD-Room-WEB-203A",
+        "LOCKWOOD-C202"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-203A": [
+      [
+        0.247140522875817,
+        0.3377525252525253
+      ],
+      [
+        "LOCKWOOD-Room-WEB-204",
+        "LOCKWOOD-Room-WEB-203"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-204": [
+      [
+        0.2687908496732026,
+        0.2941919191919192
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S204",
+        "LOCKWOOD-Room-WEB-203A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205": [
+      [
+        0.36233660130718953,
+        0.20896464646464652
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205B",
+        "LOCKWOOD-Room-WEB-C205"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205-01": [
+      [
+        0.2577614379084967,
+        0.15719696969696972
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205-03",
+        "LOCKWOOD-Room-WEB-S204"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205-02": [
+      [
+        0.36233660130718953,
+        0.11047979797979801
+      ],
+      [
+        "LOCKWOOD-Room-WEB-207"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205-03": [
+      [
+        0.34272875816993464,
+        0.1755050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C205B",
+        "LOCKWOOD-Room-WEB-205A",
+        "LOCKWOOD-Room-WEB-205-01"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205A": [
+      [
+        0.3304738562091503,
+        0.20959595959595956
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205-03",
+        "LOCKWOOD-Room-WEB-205B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205B": [
+      [
+        0.3553921568627451,
+        0.20959595959595956
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205A",
+        "LOCKWOOD-Room-WEB-205"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-205C": [
+      [
+        0.3937908496732026,
+        0.2670454545454546
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-8"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206": [
+      [
+        0.352124183006536,
+        0.2910353535353535
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-2",
+        "LOCKWOOD-Room-WEB-206-7",
+        "LOCKWOOD-Room-WEB-206-5"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-1": [
+      [
+        0.3247549019607843,
+        0.3137626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-3"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-2": [
+      [
+        0.3247549019607843,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-4",
+        "LOCKWOOD-Room-WEB-206"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-3": [
+      [
+        0.33700980392156865,
+        0.3137626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-5",
+        "LOCKWOOD-Room-WEB-206-1"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-4": [
+      [
+        0.33782679738562094,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-6",
+        "LOCKWOOD-Room-WEB-206-2"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-5": [
+      [
+        0.3500816993464052,
+        0.3137626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206",
+        "LOCKWOOD-Room-WEB-206-3"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-6": [
+      [
+        0.3508986928104575,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206-8",
+        "LOCKWOOD-Room-WEB-206-4"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-7": [
+      [
+        0.3631535947712418,
+        0.3137626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-206"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-206-8": [
+      [
+        0.3631535947712418,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C205",
+        "LOCKWOOD-Room-WEB-205C",
+        "LOCKWOOD-Room-WEB-206-6"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-207": [
+      [
+        0.3946078431372549,
+        0.19255050505050508
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205-02",
+        "LOCKWOOD-Room-WEB-C205B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-208": [
+      [
+        0.4550653594771242,
+        0.09911616161616166
+      ],
+      [
+        "LOCKWOOD-Room-WEB-209",
+        "LOCKWOOD-Room-WEB-208A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-208A": [
+      [
+        0.460375816993464,
+        0.12247474747474751
+      ],
+      [
+        "LOCKWOOD-Room-WEB-208",
+        "LOCKWOOD-Room-WEB-C211"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-209": [
+      [
+        0.4783496732026144,
+        0.09911616161616166
+      ],
+      [
+        "LOCKWOOD-Room-WEB-211",
+        "LOCKWOOD-Room-WEB-208"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-210": [
+      [
+        0.44689542483660133,
+        0.24116161616161613
+      ],
+      [
+        "LOCKWOOD-Room-WEB-214",
+        "LOCKWOOD-Room-WEB-E241"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-211": [
+      [
+        0.5065359477124183,
+        0.1142676767676768
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S210",
+        "LOCKWOOD-Room-WEB-209"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-214": [
+      [
+        0.5040849673202614,
+        0.21590909090909094
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C211",
+        "LOCKWOOD-Room-WEB-210"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-215": [
+      [
+        0.5375816993464052,
+        0.18813131313131315
+      ],
+      [
+        "LOCKWOOD-Room-WEB-215A",
+        "LOCKWOOD-Room-WEB-C202A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-215A": [
+      [
+        0.5575980392156863,
+        0.15782828282828287
+      ],
+      [
+        "LOCKWOOD-Room-WEB-215B",
+        "LOCKWOOD-Room-WEB-215"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-215B": [
+      [
+        0.5575980392156863,
+        0.12436868686868685
+      ],
+      [
+        "LOCKWOOD-Room-WEB-215CA",
+        "LOCKWOOD-Room-WEB-215A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-215C": [
+      [
+        0.5518790849673203,
+        0.08964646464646464
+      ],
+      [
+        "LOCKWOOD-C202A",
+        "LOCKWOOD-Room-WEB-S210"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-215CA": [
+      [
+        0.5228758169934641,
+        0.11047979797979801
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S210",
+        "LOCKWOOD-Room-WEB-215B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221": [
+      [
+        0.5437091503267973,
+        0.5246212121212122
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C221",
+        "LOCKWOOD-Room-WEB-221E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221A": [
+      [
+        0.5927287581699346,
+        0.4027777777777778
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221B": [
+      [
+        0.5927287581699346,
+        0.43560606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221A",
+        "LOCKWOOD-Room-WEB-221C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221C": [
+      [
+        0.5927287581699346,
+        0.4684343434343434
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221B",
+        "LOCKWOOD-Room-WEB-221D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221D": [
+      [
+        0.5927287581699346,
+        0.5
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221C",
+        "LOCKWOOD-Room-WEB-222",
+        "LOCKWOOD-Room-WEB-C221"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-221E": [
+      [
+        0.502859477124183,
+        0.514520202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-222": [
+      [
+        0.5927287581699346,
+        0.5321969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221D",
+        "LOCKWOOD-Room-WEB-222A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-222A": [
+      [
+        0.5927287581699346,
+        0.5643939393939394
+      ],
+      [
+        "LOCKWOOD-Room-WEB-222",
+        "LOCKWOOD-Room-WEB-223"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-223": [
+      [
+        0.5931372549019608,
+        0.6117424242424243
+      ],
+      [
+        "LOCKWOOD-Room-WEB-222A",
+        "LOCKWOOD-Room-WEB-223A"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-223A": [
+      [
+        0.6004901960784313,
+        0.634469696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-223",
+        "LOCKWOOD-Room-WEB-225"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-225": [
+      [
+        0.5800653594771242,
+        0.6773989898989898
+      ],
+      [
+        "LOCKWOOD-c233",
+        "LOCKWOOD-Room-WEB-S224",
+        "LOCKWOOD-Room-WEB-223A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-226": [
+      [
+        0.5923202614379085,
+        0.7285353535353536
+      ],
+      [
+        "LOCKWOOD-Room-WEB-227",
+        "LOCKWOOD-Room-WEB-233G"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-227": [
+      [
+        0.5923202614379085,
+        0.7632575757575757
+      ],
+      [
+        "LOCKWOOD-Room-WEB-230",
+        "LOCKWOOD-Room-WEB-226"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-228": [
+      [
+        0.5927287581699346,
+        0.8421717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-232",
+        "LOCKWOOD-Room-WEB-229"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-229": [
+      [
+        0.5816993464052288,
+        0.797979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-228",
+        "LOCKWOOD-Room-WEB-230"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-230": [
+      [
+        0.6037581699346405,
+        0.797979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-229",
+        "LOCKWOOD-Room-WEB-227"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-232": [
+      [
+        0.5927287581699346,
+        0.8876262626262627
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233H",
+        "LOCKWOOD-Room-WEB-228"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233": [
+      [
+        0.47998366013071897,
+        0.7986111111111112
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233E",
+        "LOCKWOOD-Room-WEB-233A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233A": [
+      [
+        0.49959150326797386,
+        0.8390151515151515
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233",
+        "LOCKWOOD-Room-WEB-233H"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233B": [
+      [
+        0.3974673202614379,
+        0.7853535353535354
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233F",
+        "LOCKWOOD-Room-WEB-233E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233C": [
+      [
+        0.3897058823529412,
+        0.8819444444444444
+      ],
+      [
+        "LOCKWOOD-Room-WEB-234",
+        "LOCKWOOD-Room-WEB-233F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233D": [
+      [
+        0.4665032679738562,
+        0.6546717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C233",
+        "LOCKWOOD-Room-WEB-240A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233E": [
+      [
+        0.48651960784313725,
+        0.7323232323232323
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233B",
+        "LOCKWOOD-Room-WEB-233",
+        "LOCKWOOD-Room-WEB-233G",
+        "LOCKWOOD-c233"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233F": [
+      [
+        0.41421568627450983,
+        0.8314393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233C",
+        "LOCKWOOD-Room-WEB-233B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233G": [
+      [
+        0.5641339869281046,
+        0.7051767676767677
+      ],
+      [
+        "LOCKWOOD-Room-WEB-226",
+        "LOCKWOOD-Room-WEB-233E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-233H": [
+      [
+        0.5122549019607843,
+        0.9027777777777778
+      ],
+      [
+        "LOCKWOOD-Room-WEB-233A",
+        "LOCKWOOD-Room-WEB-232"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-234": [
+      [
+        0.34967320261437906,
+        0.8800505050505051
+      ],
+      [
+        "LOCKWOOD-Room-WEB-236",
+        "LOCKWOOD-Room-WEB-233C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235": [
+      [
+        0.2965686274509804,
+        0.5669191919191919
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C235",
+        "LOCKWOOD-Room-WEB-235A"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-235B": [
+      [
+        0.37540849673202614,
+        0.7051767676767677
+      ],
+      [
+        "LOCKWOOD-Room-WEB-242",
+        "LOCKWOOD-Room-WEB-235F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235C": [
+      [
+        0.3684640522875817,
+        0.8087121212121212
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235D": [
+      [
+        0.33619281045751637,
+        0.8005050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-237",
+        "LOCKWOOD-Room-WEB-235C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235E": [
+      [
+        0.33169934640522875,
+        0.7651515151515151
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235F",
+        "LOCKWOOD-Room-WEB-237"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235F": [
+      [
+        0.3598856209150327,
+        0.7171717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235B",
+        "LOCKWOOD-Room-WEB-235E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-235G": [
+      [
+        0.35661764705882354,
+        0.5214646464646464
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S219",
+        "LOCKWOOD-Room-WEB-C235"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-236": [
+      [
+        0.31086601307189543,
+        0.8806818181818181
+      ],
+      [
+        "LOCKWOOD-Room-WEB-237A",
+        "LOCKWOOD-Room-WEB-234"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-237": [
+      [
+        0.28799019607843135,
+        0.8150252525252525
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235E",
+        "LOCKWOOD-Room-WEB-235D",
+        "LOCKWOOD-Room-WEB-237A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-237A": [
+      [
+        0.28921568627450983,
+        0.8806818181818181
+      ],
+      [
+        "LOCKWOOD-Room-WEB-237",
+        "LOCKWOOD-Room-WEB-236"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-240A": [
+      [
+        0.39950980392156865,
+        0.6294191919191919
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C240",
+        "LOCKWOOD-Room-WEB-233D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-242": [
+      [
+        0.3075980392156863,
+        0.696969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-242A",
+        "LOCKWOOD-Room-WEB-235B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-242A": [
+      [
+        0.30310457516339867,
+        0.663510101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S241",
+        "LOCKWOOD-Room-WEB-242"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C201": [
+      [
+        0.21405228758169934,
+        0.4690656565656566
+      ],
+      [
+        "LOCKWOOD-BRIDGE-TO-BALDY"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C202": [
+      [
+        0.3815359477124183,
+        0.3964646464646465
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S219"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C202A": [
+      [
+        0.5526960784313726,
+        0.18560606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-215",
+        "LOCKWOOD-C202A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C205": [
+      [
+        0.36151960784313725,
+        0.24053030303030298
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205",
+        "LOCKWOOD-Room-WEB-206-8"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C205B": [
+      [
+        0.3762254901960784,
+        0.19191919191919193
+      ],
+      [
+        "LOCKWOOD-Room-WEB-207",
+        "LOCKWOOD-Room-WEB-205-03"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C211": [
+      [
+        0.4758986928104575,
+        0.13888888888888884
+      ],
+      [
+        "LOCKWOOD-Room-WEB-208A",
+        "LOCKWOOD-Room-WEB-214"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C218": [
+      [
+        0.7316176470588235,
+        0.35858585858585856
+      ],
+      [
+        "LOCKWOOD-BRIDGE-TO-CLEMENS"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-C221": [
+      [
+        0.5490196078431373,
+        0.514520202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-221D",
+        "LOCKWOOD-Room-WEB-221"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C233": [
+      [
+        0.48651960784313725,
+        0.6666666666666667
+      ],
+      [
+        "LOCKWOOD-c233",
+        "LOCKWOOD-Room-WEB-233D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C235": [
+      [
+        0.3214869281045752,
+        0.5618686868686869
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235G",
+        "LOCKWOOD-Room-WEB-235"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C240": [
+      [
+        0.3684640522875817,
+        0.6313131313131313
+      ],
+      [
+        "LOCKWOOD-Room-WEB-240A",
+        "LOCKWOOD-Room-WEB-E240"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E238": [
+      [
+        0.3700980392156863,
+        0.6849747474747474
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E239"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E239": [
+      [
+        0.36764705882352944,
+        0.6654040404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E240",
+        "LOCKWOOD-Room-WEB-E238"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E240": [
+      [
+        0.3533496732026144,
+        0.6439393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C240",
+        "LOCKWOOD-Room-WEB-E239",
+        "LOCKWOOD-Room-WEB-235A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E241": [
+      [
+        0.39338235294117646,
+        0.2897727272727273
+      ],
+      [
+        "LOCKWOOD-Room-WEB-210"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S204": [
+      [
+        0.25040849673202614,
+        0.28787878787878785
+      ],
+      [
+        "LOCKWOOD-Room-WEB-205-01",
+        "LOCKWOOD-Room-WEB-204",
+        "LOCKWOOD-Room-WEB-S107",
+        "LOCKWOOD-Room-WEB-S302"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S210": [
+      [
+        0.5098039215686274,
+        0.08585858585858586
+      ],
+      [
+        "LOCKWOOD-Room-WEB-215C",
+        "LOCKWOOD-Room-WEB-215CA",
+        "LOCKWOOD-Room-WEB-211",
+        "LOCKWOOD-Room-WEB-S114",
+        "LOCKWOOD-Room-WEB-S308"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S219": [
+      [
+        0.3410947712418301,
+        0.4191919191919192
+      ],
+      [
+        "LOCKWOOD-C202",
+        "LOCKWOOD-Room-WEB-C202",
+        "LOCKWOOD-Room-WEB-235G",
+        "LOCKWOOD-Room-WEB-S102",
+        "LOCKWOOD-BRIDGE-TO-CLEMENS"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S224": [
+      [
+        0.5992647058823529,
+        0.682449494949495
+      ],
+      [
+        "LOCKWOOD-Room-WEB-225",
+        "LOCKWOOD-Room-WEB-S150",
+        "LOCKWOOD-Room-WEB-S313"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S241": [
+      [
+        0.33619281045751637,
+        0.6654040404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-235A",
+        "LOCKWOOD-Room-WEB-242A",
+        "LOCKWOOD-Room-WEB-S129",
+        "LOCKWOOD-Room-WEB-S330"
+      ]
+    ],
+    "LOCKWOOD-C202A": [
+      [
+        0.5907590759075908,
+        0.15306122448979592
+      ],
+      [
+        "LOCKWOOD-BRIDGE-TO-STUDENT-UNION",
+        "LOCKWOOD-Room-WEB-215C",
+        "LOCKWOOD-Room-WEB-C202A",
+        "LOCKWOOD-BRIDGE-TO-CLEMENS"
+      ]
+    ],
+    "LOCKWOOD-BRIDGE-TO-STUDENT-UNION": [
+      [
+        0.594059405940594,
+        0.047193877551020405
+      ],
+      [
+        "LOCKWOOD-C202A"
+      ]
+    ],
+    "LOCKWOOD-BRIDGE-TO-CLEMENS": [
+      [
+        0.5503300330033003,
+        0.35841836734693877
+      ],
+      [
+        "LOCKWOOD-C202A",
+        "LOCKWOOD-Room-WEB-C218",
+        "LOCKWOOD-Room-WEB-S219"
+      ]
+    ],
+    "LOCKWOOD-BRIDGE-TO-BALDY": [
+      [
+        0.22442244224422442,
+        0.46938775510204084
+      ],
+      [
+        "LOCKWOOD-C202",
+        "LOCKWOOD-Room-WEB-C201"
+      ]
+    ],
+    "LOCKWOOD-c233": [
+      [
+        0.514026402640264,
+        0.6632653061224489
+      ],
+      [
+        "LOCKWOOD-Room-WEB-225",
+        "LOCKWOOD-Room-WEB-C233",
+        "LOCKWOOD-Room-WEB-233E"
+      ]
+    ],
+    "LOCKWOOD-C202": [
+      [
+        0.29372937293729373,
+        0.41964285714285715
+      ],
+      [
+        "LOCKWOOD-Room-WEB-203",
+        "LOCKWOOD-BRIDGE-TO-BALDY",
+        "LOCKWOOD-Room-WEB-S219"
+      ]
+    ],
+  
+  
+    "LOCKWOOD-Room-WEB-301A": [
+      [
+        0.2945261437908497,
+        0.4892676767676768
+      ],
+      [
+        "LOCKWOOD-Room-WEB-324",
+        "LOCKWOOD-Room-WEB-301B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-301B": [
+      [
+        0.2647058823529412,
+        0.44886363636363635
+      ],
+      [
+        "LOCKWOOD-Room-WEB-301A",
+        "LOCKWOOD-Room-WEB-301C",
+        "LOCKWOOD-Room-WEB-335A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-301C": [
+      [
+        0.2406045751633987,
+        0.4457070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-301B",
+        "LOCKWOOD-Room-WEB-301D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-301D": [
+      [
+        0.2945261437908497,
+        0.3566919191919192
+      ],
+      [
+        "LOCKWOOD-Room-WEB-301E",
+        "LOCKWOOD-Room-WEB-301C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-301E": [
+      [
+        0.2973856209150327,
+        0.351010101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-301P",
+        "LOCKWOOD-Room-WEB-301D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-301P": [
+      [
+        0.24959150326797386,
+        0.3162878787878788
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S302",
+        "LOCKWOOD-Room-WEB-301E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-303": [
+      [
+        0.2741013071895425,
+        0.2790404040404041
+      ],
+      [
+        "LOCKWOOD-Room-WEB-305C",
+        "LOCKWOOD-Room-WEB-S302"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-304": [
+      [
+        0.2610294117647059,
+        0.14141414141414144
+      ],
+      [
+        "LOCKWOOD-Room-WEB-305B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-304A": [
+      [
+        0.37254901960784315,
+        0.08270202020202022
+      ],
+      [
+        "LOCKWOOD-C305",
+        "LOCKWOOD-Room-WEB-305A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-305A": [
+      [
+        0.36968954248366015,
+        0.09217171717171713
+      ],
+      [
+        "LOCKWOOD-Room-WEB-304A",
+        "LOCKWOOD-Room-WEB-305B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-305B": [
+      [
+        0.3602941176470588,
+        0.10227272727272729
+      ],
+      [
+        "LOCKWOOD-Room-WEB-305A",
+        "LOCKWOOD-Room-WEB-304"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-305C": [
+      [
+        0.39215686274509803,
+        0.2032828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C305",
+        "LOCKWOOD-Room-WEB-303",
+        "LOCKWOOD-C312"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-305E": [
+      [
+        0.5718954248366013,
+        0.08522727272727271
+      ],
+      [
+        "LOCKWOOD-Room-WEB-310"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-305F": [
+      [
+        0.559640522875817,
+        0.2234848484848485
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C305"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-306": [
+      [
+        0.4550653594771242,
+        0.07954545454545459
+      ],
+      [
+        "LOCKWOOD-Room-WEB-307"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-307": [
+      [
+        0.47467320261437906,
+        0.07954545454545459
+      ],
+      [
+        "LOCKWOOD-C305",
+        "LOCKWOOD-Room-WEB-306"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-309": [
+      [
+        0.5110294117647058,
+        0.09595959595959591
+      ],
+      [
+        "LOCKWOOD-Room-WEB-310",
+        "LOCKWOOD-Room-WEB-S308",
+        "LOCKWOOD-Room-WEB-309A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-309A": [
+      [
+        0.5004084967320261,
+        0.11931818181818177
+      ],
+      [
+        "LOCKWOOD-Room-WEB-309",
+        "LOCKWOOD-C305"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-310": [
+      [
+        0.5232843137254902,
+        0.10606060606060608
+      ],
+      [
+        "LOCKWOOD-Room-WEB-305E",
+        "LOCKWOOD-Room-WEB-309"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312": [
+      [
+        0.5641339869281046,
+        0.49684343434343436
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312A",
+        "LOCKWOOD-Room-WEB-312B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312A": [
+      [
+        0.5531045751633987,
+        0.5
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335C",
+        "LOCKWOOD-Room-WEB-312"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312B": [
+      [
+        0.608251633986928,
+        0.5056818181818181
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312",
+        "LOCKWOOD-Room-WEB-312M"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312C": [
+      [
+        0.5714869281045751,
+        0.3787878787878788
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312D",
+        "LOCKWOOD-Room-WEB-335C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312D": [
+      [
+        0.5191993464052288,
+        0.33838383838383834
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335B",
+        "LOCKWOOD-Room-WEB-312C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-312M": [
+      [
+        0.5968137254901961,
+        0.6193181818181819
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312B",
+        "LOCKWOOD-Room-WEB-S313"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-313A": [
+      [
+        0.42483660130718953,
+        0.7657828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C313",
+        "LOCKWOOD-Room-WEB-317B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-314": [
+      [
+        0.5723039215686274,
+        0.658459595959596
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S313",
+        "LOCKWOOD-Room-WEB-315",
+        "LOCKWOOD-C313"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-315": [
+      [
+        0.5910947712418301,
+        0.7140151515151515
+      ],
+      [
+        "LOCKWOOD-Room-WEB-314",
+        "LOCKWOOD-Room-WEB-316"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-316": [
+      [
+        0.5910947712418301,
+        0.7443181818181819
+      ],
+      [
+        "LOCKWOOD-Room-WEB-315",
+        "LOCKWOOD-Room-WEB-317A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-317": [
+      [
+        0.4493464052287582,
+        0.8276515151515151
+      ],
+      [
+        "LOCKWOOD-Room-WEB-317A",
+        "LOCKWOOD-Room-WEB-C313"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-317A": [
+      [
+        0.47671568627450983,
+        0.8825757575757576
+      ],
+      [
+        "LOCKWOOD-Room-WEB-316",
+        "LOCKWOOD-Room-WEB-317",
+        "LOCKWOOD-317"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-317B": [
+      [
+        0.33619281045751637,
+        0.8825757575757576
+      ],
+      [
+        "LOCKWOOD-Room-WEB-313A",
+        "LOCKWOOD-Room-WEB-320"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-319": [
+      [
+        0.3639705882352941,
+        0.7058080808080809
+      ],
+      [
+        "LOCKWOOD-Room-WEB-326B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-320": [
+      [
+        0.24959150326797386,
+        0.8573232323232323
+      ],
+      [
+        "LOCKWOOD-Room-WEB-317B",
+        "LOCKWOOD-Room-WEB-321"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-321": [
+      [
+        0.24959150326797386,
+        0.7045454545454546
+      ],
+      [
+        "LOCKWOOD-Room-WEB-320",
+        "LOCKWOOD-Room-WEB-322"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-322": [
+      [
+        0.24959150326797386,
+        0.6685606060606061
+      ],
+      [
+        "LOCKWOOD-Room-WEB-321",
+        "LOCKWOOD-Room-WEB-323"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-323": [
+      [
+        0.24959150326797386,
+        0.639520202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-322",
+        "LOCKWOOD-Room-WEB-324"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-324": [
+      [
+        0.24959150326797386,
+        0.6117424242424243
+      ],
+      [
+        "LOCKWOOD-Room-WEB-323",
+        "LOCKWOOD-Room-WEB-301A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-325": [
+      [
+        0.31209150326797386,
+        0.625
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335E",
+        "LOCKWOOD-Room-WEB-326A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-326": [
+      [
+        0.32883986928104575,
+        0.7013888888888888
+      ],
+      [
+        "LOCKWOOD-Room-WEB-326A",
+        "LOCKWOOD-Room-WEB-C319"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-326A": [
+      [
+        0.3104575163398693,
+        0.6553030303030303
+      ],
+      [
+        "LOCKWOOD-Room-WEB-325",
+        "LOCKWOOD-Room-WEB-326"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-326B": [
+      [
+        0.3684640522875817,
+        0.692550505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E327",
+        "LOCKWOOD-Room-WEB-319"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-335A": [
+      [
+        0.35661764705882354,
+        0.43686868686868685
+      ],
+      [
+        "LOCKWOOD-Room-WEB-301B",
+        "LOCKWOOD-Room-WEB-C312"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-335B": [
+      [
+        0.4236111111111111,
+        0.2992424242424242
+      ],
+      [
+        "LOCKWOOD-C312",
+        "LOCKWOOD-Room-WEB-312D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-335C": [
+      [
+        0.4918300653594771,
+        0.4665404040404041
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312C",
+        "LOCKWOOD-Room-WEB-312A",
+        "LOCKWOOD-Room-WEB-C312"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-335D": [
+      [
+        0.4497549019607843,
+        0.6369949494949495
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C313",
+        "LOCKWOOD-Room-WEB-335E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-335E": [
+      [
+        0.3762254901960784,
+        0.6060606060606061
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335D",
+        "LOCKWOOD-Room-WEB-325",
+        "LOCKWOOD-Room-WEB-E328",
+        "LOCKWOOD-Room-WEB-C330"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C305": [
+      [
+        0.44281045751633985,
+        0.19507575757575757
+      ],
+      [
+        "LOCKWOOD-C305",
+        "LOCKWOOD-Room-WEB-305F",
+        "LOCKWOOD-Room-WEB-305C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C312": [
+      [
+        0.3958333333333333,
+        0.44381313131313127
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335A",
+        "LOCKWOOD-Room-WEB-335C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C313": [
+      [
+        0.4930555555555556,
+        0.6938131313131313
+      ],
+      [
+        "LOCKWOOD-Room-WEB-317",
+        "LOCKWOOD-Room-WEB-313A",
+        "LOCKWOOD-C313",
+        "LOCKWOOD-Room-WEB-335D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C319": [
+      [
+        0.33455882352941174,
+        0.6597222222222222
+      ],
+      [
+        "LOCKWOOD-Room-WEB-326",
+        "LOCKWOOD-Room-WEB-S330"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C330": [
+      [
+        0.36356209150326796,
+        0.6262626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E329",
+        "LOCKWOOD-Room-WEB-E328",
+        "LOCKWOOD-Room-WEB-335E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E327": [
+      [
+        0.3770424836601307,
+        0.6685606060606061
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E328",
+        "LOCKWOOD-Room-WEB-326B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E328": [
+      [
+        0.36519607843137253,
+        0.648989898989899
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C330",
+        "LOCKWOOD-Room-WEB-335E",
+        "LOCKWOOD-Room-WEB-E327"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E329": [
+      [
+        0.3533496732026144,
+        0.6275252525252526
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S330",
+        "LOCKWOOD-Room-WEB-C330"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S302": [
+      [
+        0.24877450980392157,
+        0.2714646464646465
+      ],
+      [
+        "LOCKWOOD-Room-WEB-303",
+        "LOCKWOOD-Room-WEB-301P",
+        "LOCKWOOD-Room-WEB-S204",
+        "LOCKWOOD-Room-WEB-S402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S308": [
+      [
+        0.508578431372549,
+        0.06944444444444442
+      ],
+      [
+        "LOCKWOOD-Room-WEB-309",
+        "LOCKWOOD-Room-WEB-S210",
+        "LOCKWOOD-Room-WEB-S408"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S313": [
+      [
+        0.5996732026143791,
+        0.6654040404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-312M",
+        "LOCKWOOD-Room-WEB-314",
+        "LOCKWOOD-Room-WEB-S224",
+        "LOCKWOOD-Room-WEB-S413"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S330": [
+      [
+        0.3329248366013072,
+        0.6445707070707071
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C319",
+        "LOCKWOOD-Room-WEB-E329",
+        "LOCKWOOD-Room-WEB-S241",
+        "LOCKWOOD-Room-WEB-S430"
+      ]
+    ],
+    "LOCKWOOD-C305": [
+      [
+        0.43646864686468645,
+        0.12244897959183673
+      ],
+      [
+        "LOCKWOOD-Room-WEB-309A",
+        "LOCKWOOD-Room-WEB-307",
+        "LOCKWOOD-Room-WEB-304A",
+        "LOCKWOOD-Room-WEB-C305"
+      ]
+    ],
+    "LOCKWOOD-C312": [
+      [
+        0.33003300330033003,
+        0.2767857142857143
+      ],
+      [
+        "LOCKWOOD-Room-WEB-335B",
+        "LOCKWOOD-Room-WEB-305C"
+      ]
+    ],
+    "LOCKWOOD-C313": [
+      [
+        0.5206270627062707,
+        0.6517857142857143
+      ],
+      [
+        "LOCKWOOD-Room-WEB-314",
+        "LOCKWOOD-Room-WEB-C313"
+      ]
+    ],
+    "LOCKWOOD-317": [
+      [
+        0.5717821782178217,
+        0.8737244897959183
+      ],
+      [
+        "LOCKWOOD-Room-WEB-317A"
+      ]
+    ],
+  
+    "LOCKWOOD-Room-WEB-401A": [
+      [
+        0.2761437908496732,
+        0.4494949494949495
+      ],
+      [
+        "LOCKWOOD-Room-WEB-401B",
+        "LOCKWOOD-Room-WEB-C401"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-401B": [
+      [
+        0.26552287581699346,
+        0.44633838383838387
+      ],
+      [
+        "LOCKWOOD-Room-WEB-401C",
+        "LOCKWOOD-Room-WEB-401A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-401C": [
+      [
+        0.22303921568627452,
+        0.44633838383838387
+      ],
+      [
+        "LOCKWOOD-Room-WEB-401P",
+        "LOCKWOOD-Room-WEB-401B",
+        "LOCKWOOD-Room-WEB-424"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-401P": [
+      [
+        0.22998366013071894,
+        0.3162878787878788
+      ],
+      [
+        "LOCKWOOD-Room-WEB-401Q",
+        "LOCKWOOD-Room-WEB-401C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-401Q": [
+      [
+        0.24836601307189543,
+        0.31439393939393945
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S402",
+        "LOCKWOOD-Room-WEB-401P"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-403": [
+      [
+        0.24877450980392157,
+        0.2670454545454546
+      ],
+      [
+        "LOCKWOOD-C402",
+        "LOCKWOOD-Room-WEB-S402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-404": [
+      [
+        0.24959150326797386,
+        0.15340909090909094
+      ],
+      []
+    ],
+    "LOCKWOOD-Room-WEB-404A": [
+      [
+        0.22263071895424835,
+        0.1597222222222222
+      ],
+      [
+        "LOCKWOOD-Room-WEB-404C",
+        "LOCKWOOD-Room-WEB-404B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-404B": [
+      [
+        0.24959150326797386,
+        0.2007575757575758
+      ],
+      [
+        "LOCKWOOD-Room-WEB-404A",
+        "LOCKWOOD-C402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-404C": [
+      [
+        0.24959150326797386,
+        0.1477272727272727
+      ],
+      [
+        "LOCKWOOD-Room-WEB-404D",
+        "LOCKWOOD-Room-WEB-404A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-404D": [
+      [
+        0.24959150326797386,
+        0.09848484848484851
+      ],
+      [
+        "LOCKWOOD-Room-WEB-404E",
+        "LOCKWOOD-Room-WEB-404C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-404E": [
+      [
+        0.2540849673202614,
+        0.058080808080808066
+      ],
+      [
+        "LOCKWOOD-Room-WEB-405B",
+        "LOCKWOOD-Room-WEB-404D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-405A": [
+      [
+        0.37336601307189543,
+        0.202020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C406",
+        "LOCKWOOD-Room-WEB-C402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-405B": [
+      [
+        0.34191176470588236,
+        0.101010101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-405C",
+        "LOCKWOOD-Room-WEB-404E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-405C": [
+      [
+        0.35130718954248363,
+        0.09090909090909094
+      ],
+      [
+        "LOCKWOOD-Room-WEB-405D",
+        "LOCKWOOD-Room-WEB-405B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-405D": [
+      [
+        0.3545751633986928,
+        0.08080808080808077
+      ],
+      [
+        "LOCKWOOD-Room-WEB-406",
+        "LOCKWOOD-Room-WEB-405C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-406": [
+      [
+        0.4362745098039216,
+        0.07702020202020199
+      ],
+      [
+        "LOCKWOOD-Room-WEB-407",
+        "LOCKWOOD-Room-WEB-405D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-407": [
+      [
+        0.45588235294117646,
+        0.07702020202020199
+      ],
+      [
+        "LOCKWOOD-C406",
+        "LOCKWOOD-Room-WEB-406"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-409": [
+      [
+        0.4930555555555556,
+        0.09343434343434343
+      ],
+      [
+        "LOCKWOOD-Room-WEB-410",
+        "LOCKWOOD-Room-WEB-S408",
+        "LOCKWOOD-Room-WEB-409A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-409A": [
+      [
+        0.4791666666666667,
+        0.11742424242424243
+      ],
+      [
+        "LOCKWOOD-Room-WEB-409",
+        "LOCKWOOD-Room-WEB-411E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-410": [
+      [
+        0.5183823529411765,
+        0.08333333333333337
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411",
+        "LOCKWOOD-Room-WEB-409"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411": [
+      [
+        0.5281862745098039,
+        0.10164141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411B",
+        "LOCKWOOD-Room-WEB-410"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411A": [
+      [
+        0.5306372549019608,
+        0.202020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411E",
+        "LOCKWOOD-Room-WEB-C406"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411B": [
+      [
+        0.5339052287581699,
+        0.09785353535353536
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411C",
+        "LOCKWOOD-Room-WEB-411"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411C": [
+      [
+        0.5404411764705882,
+        0.05492424242424243
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411D",
+        "LOCKWOOD-Room-WEB-411B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411D": [
+      [
+        0.5608660130718954,
+        0.09785353535353536
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-411E": [
+      [
+        0.5518790849673203,
+        0.1755050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-409A",
+        "LOCKWOOD-Room-WEB-411A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-412": [
+      [
+        0.5453431372549019,
+        0.5037878787878788
+      ],
+      [
+        "LOCKWOOD-Room-WEB-412A",
+        "LOCKWOOD-Room-WEB-412B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-412A": [
+      [
+        0.5343137254901961,
+        0.49810606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-435C",
+        "LOCKWOOD-Room-WEB-412"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-412B": [
+      [
+        0.5861928104575164,
+        0.5056818181818181
+      ],
+      [
+        "LOCKWOOD-Room-WEB-412",
+        "LOCKWOOD-Room-WEB-412M"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-412C": [
+      [
+        0.5445261437908496,
+        0.3762626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-435B",
+        "LOCKWOOD-Room-WEB-C412"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-412M": [
+      [
+        0.5772058823529411,
+        0.6180555555555556
+      ],
+      [
+        "LOCKWOOD-Room-WEB-412B",
+        "LOCKWOOD-Room-WEB-S413"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413A": [
+      [
+        0.4571078431372549,
+        0.696969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413B",
+        "LOCKWOOD-Room-WEB-C413"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413B": [
+      [
+        0.4571078431372549,
+        0.7361111111111112
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413H",
+        "LOCKWOOD-Room-WEB-413A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413C": [
+      [
+        0.5608660130718954,
+        0.8099747474747475
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413D",
+        "LOCKWOOD-Room-WEB-413F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413D": [
+      [
+        0.5592320261437909,
+        0.797979797979798
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413E",
+        "LOCKWOOD-Room-WEB-413C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413E": [
+      [
+        0.5866013071895425,
+        0.8042929292929293
+      ],
+      [
+        "LOCKWOOD-Room-WEB-416",
+        "LOCKWOOD-Room-WEB-413D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413F": [
+      [
+        0.5592320261437909,
+        0.8421717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413C",
+        "LOCKWOOD-Room-WEB-413G"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413G": [
+      [
+        0.5604575163398693,
+        0.8819444444444444
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413F",
+        "LOCKWOOD-Room-WEB-417A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413H": [
+      [
+        0.4571078431372549,
+        0.8017676767676768
+      ],
+      [
+        "LOCKWOOD-Room-WEB-417",
+        "LOCKWOOD-Room-WEB-413B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-413J": [
+      [
+        0.3116830065359477,
+        0.8023989898989898
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C419",
+        "LOCKWOOD-Room-WEB-417B",
+        "LOCKWOOD-Room-WEB-417"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-414": [
+      [
+        0.5600490196078431,
+        0.6603535353535354
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S413",
+        "LOCKWOOD-Room-WEB-415"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-415": [
+      [
+        0.5723039215686274,
+        0.7121212121212122
+      ],
+      [
+        "LOCKWOOD-Room-WEB-414",
+        "LOCKWOOD-Room-WEB-416"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-416": [
+      [
+        0.5723039215686274,
+        0.7424242424242424
+      ],
+      [
+        "LOCKWOOD-Room-WEB-415",
+        "LOCKWOOD-Room-WEB-413E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-417": [
+      [
+        0.3937908496732026,
+        0.845959595959596
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413J",
+        "LOCKWOOD-Room-WEB-413H"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-417A": [
+      [
+        0.4579248366013072,
+        0.8813131313131313
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413G",
+        "LOCKWOOD-Room-WEB-417B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-417B": [
+      [
+        0.3174019607843137,
+        0.8813131313131313
+      ],
+      [
+        "LOCKWOOD-Room-WEB-417A",
+        "LOCKWOOD-Room-WEB-420",
+        "LOCKWOOD-Room-WEB-413J"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-419": [
+      [
+        0.3451797385620915,
+        0.7032828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-426B",
+        "LOCKWOOD-Room-WEB-426"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-420": [
+      [
+        0.23080065359477125,
+        0.8554292929292929
+      ],
+      [
+        "LOCKWOOD-Room-WEB-417B",
+        "LOCKWOOD-Room-WEB-420A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-420A": [
+      [
+        0.23080065359477125,
+        0.8011363636363636
+      ],
+      [
+        "LOCKWOOD-Room-WEB-420",
+        "LOCKWOOD-Room-WEB-420B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-420B": [
+      [
+        0.23080065359477125,
+        0.7670454545454546
+      ],
+      [
+        "LOCKWOOD-Room-WEB-420A",
+        "LOCKWOOD-Room-WEB-420C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-420C": [
+      [
+        0.23080065359477125,
+        0.7380050505050505
+      ],
+      [
+        "LOCKWOOD-Room-WEB-420B",
+        "LOCKWOOD-Room-WEB-421"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-421": [
+      [
+        0.23080065359477125,
+        0.702020202020202
+      ],
+      [
+        "LOCKWOOD-Room-WEB-420C",
+        "LOCKWOOD-Room-WEB-422"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-422": [
+      [
+        0.23080065359477125,
+        0.6660353535353536
+      ],
+      [
+        "LOCKWOOD-Room-WEB-421",
+        "LOCKWOOD-Room-WEB-423"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-423": [
+      [
+        0.23080065359477125,
+        0.6382575757575757
+      ],
+      [
+        "LOCKWOOD-Room-WEB-422",
+        "LOCKWOOD-Room-WEB-424"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-424": [
+      [
+        0.23080065359477125,
+        0.6092171717171717
+      ],
+      [
+        "LOCKWOOD-Room-WEB-423",
+        "LOCKWOOD-Room-WEB-401C",
+        "LOCKWOOD-Room-WEB-425"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-425": [
+      [
+        0.2937091503267974,
+        0.6231060606060606
+      ],
+      [
+        "LOCKWOOD-Room-WEB-424",
+        "LOCKWOOD-Room-WEB-426A",
+        "LOCKWOOD-Room-WEB-S430"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-426": [
+      [
+        0.31004901960784315,
+        0.6988636363636364
+      ],
+      [
+        "LOCKWOOD-Room-WEB-426A",
+        "LOCKWOOD-Room-WEB-C419",
+        "LOCKWOOD-Room-WEB-419"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-426A": [
+      [
+        0.2839052287581699,
+        0.6578282828282829
+      ],
+      [
+        "LOCKWOOD-Room-WEB-425",
+        "LOCKWOOD-Room-WEB-426"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-426B": [
+      [
+        0.34844771241830064,
+        0.6931818181818181
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E427",
+        "LOCKWOOD-Room-WEB-419"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-435A": [
+      [
+        0.33782679738562094,
+        0.43434343434343436
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C401",
+        "LOCKWOOD-Room-WEB-C402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-435B": [
+      [
+        0.40522875816993464,
+        0.2967171717171717
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C402",
+        "LOCKWOOD-Room-WEB-412C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-435C": [
+      [
+        0.47344771241830064,
+        0.4652777777777778
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C412",
+        "LOCKWOOD-Room-WEB-412A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-435D": [
+      [
+        0.4309640522875817,
+        0.6351010101010102
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C413",
+        "LOCKWOOD-Room-WEB-E427"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C401": [
+      [
+        0.3235294117647059,
+        0.43308080808080807
+      ],
+      [
+        "LOCKWOOD-Room-WEB-401A",
+        "LOCKWOOD-Room-WEB-435A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C402": [
+      [
+        0.3619281045751634,
+        0.2803030303030303
+      ],
+      [
+        "C402",
+        "LOCKWOOD-Room-WEB-405A",
+        "LOCKWOOD-Room-WEB-435B",
+        "LOCKWOOD-Room-WEB-435A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C406": [
+      [
+        0.38235294117647056,
+        0.16729797979797978
+      ],
+      [
+        "LOCKWOOD-Room-WEB-411A",
+        "C406",
+        "LOCKWOOD-Room-WEB-405A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C412": [
+      [
+        0.49550653594771243,
+        0.44191919191919193
+      ],
+      [
+        "LOCKWOOD-Room-WEB-412C",
+        "LOCKWOOD-Room-WEB-435C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C413": [
+      [
+        0.47549019607843135,
+        0.6887626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-413A",
+        "LOCKWOOD-Room-WEB-435D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C419": [
+      [
+        0.3112745098039216,
+        0.7266414141414141
+      ],
+      [
+        "LOCKWOOD-Room-WEB-426",
+        "LOCKWOOD-Room-WEB-413J"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C430": [
+      [
+        0.3488562091503268,
+        0.6231060606060606
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E428",
+        "LOCKWOOD-Room-WEB-E429"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E427": [
+      [
+        0.3574346405228758,
+        0.663510101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-435D",
+        "LOCKWOOD-Room-WEB-E428",
+        "LOCKWOOD-Room-WEB-426B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E428": [
+      [
+        0.3480392156862745,
+        0.6439393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E427",
+        "LOCKWOOD-Room-WEB-C430"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E429": [
+      [
+        0.335375816993464,
+        0.6243686868686869
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C430",
+        "LOCKWOOD-Room-WEB-S430"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S402": [
+      [
+        0.22998366013071894,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-403",
+        "LOCKWOOD-Room-WEB-401Q",
+        "LOCKWOOD-Room-WEB-S302",
+        "LOCKWOOD-Room-WEB-S502"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S408": [
+      [
+        0.4897875816993464,
+        0.06755050505050508
+      ],
+      [
+        "LOCKWOOD-Room-WEB-409",
+        "LOCKWOOD-Room-WEB-S308",
+        "LOCKWOOD-Room-WEB-S508"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S413": [
+      [
+        0.5808823529411765,
+        0.6641414141414141
+      ],
+      [
+        "LOCKWOOD-Room-WEB-412M",
+        "LOCKWOOD-Room-WEB-414",
+        "LOCKWOOD-Room-WEB-S313",
+        "LOCKWOOD-Room-WEB-S513"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S430": [
+      [
+        0.31413398692810457,
+        0.6426767676767677
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E429",
+        "LOCKWOOD-Room-WEB-425",
+        "LOCKWOOD-Room-WEB-S330",
+        "LOCKWOOD-Room-WEB-S530"
+      ]
+    ],
+    "LOCKWOOD-C402": [
+      [
+        0.3085808580858086,
+        0.2767857142857143
+      ],
+      [
+        "LOCKWOOD-Room-WEB-404B",
+        "LOCKWOOD-Room-WEB-C402",
+        "LOCKWOOD-Room-WEB-403"
+      ]
+    ],
+    "LOCKWOOD-C406": [
+      [
+        0.4174917491749175,
+        0.12244897959183673
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C406",
+        "LOCKWOOD-Room-WEB-407"
+      ]
+    ],
+  
+  
+    "LOCKWOOD-Room-WEB-501A": [
+      [
+        0.26348039215686275,
+        0.4532828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C501",
+        "LOCKWOOD-Room-WEB-501B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-501B": [
+      [
+        0.25326797385620914,
+        0.4507575757575758
+      ],
+      [
+        "LOCKWOOD-Room-WEB-501A",
+        "LOCKWOOD-Room-WEB-501C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-501C": [
+      [
+        0.21772875816993464,
+        0.45012626262626265
+      ],
+      [
+        "LOCKWOOD-Room-WEB-501P",
+        "LOCKWOOD-Room-WEB-501B",
+        "LOCKWOOD-Room-WEB-524"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-501D": [
+      [
+        0.27655228758169936,
+        0.2948232323232324
+      ],
+      [
+        "LOCKWOOD-Room-WEB-504B",
+        "LOCKWOOD-Room-WEB-503",
+        "LOCKWOOD-Room-WEB-C502",
+        "LOCKWOOD-Room-WEB-535A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-501P": [
+      [
+        0.22589869281045752,
+        0.31881313131313127
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S502",
+        "LOCKWOOD-Room-WEB-501C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-503": [
+      [
+        0.24305555555555555,
+        0.26957070707070707
+      ],
+      [
+        "LOCKWOOD-Room-WEB-501D",
+        "LOCKWOOD-Room-WEB-S502"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-504": [
+      [
+        0.24673202614379086,
+        0.14583333333333337
+      ],
+      [
+        "LOCKWOOD-Room-WEB-504D",
+        "LOCKWOOD-Room-WEB-504C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-504A": [
+      [
+        0.21691176470588236,
+        0.1647727272727273
+      ],
+      [
+        "LOCKWOOD-Room-WEB-504C",
+        "LOCKWOOD-Room-WEB-504B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-504B": [
+      [
+        0.24387254901960784,
+        0.20517676767676762
+      ],
+      [
+        "LOCKWOOD-Room-WEB-504A",
+        "LOCKWOOD-Room-WEB-501D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-504C": [
+      [
+        0.24387254901960784,
+        0.1515151515151515
+      ],
+      [
+        "LOCKWOOD-Room-WEB-504",
+        "LOCKWOOD-Room-WEB-504A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-504D": [
+      [
+        0.24387254901960784,
+        0.10353535353535348
+      ],
+      [
+        "LOCKWOOD-Room-WEB-505B",
+        "LOCKWOOD-Room-WEB-504"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-505A": [
+      [
+        0.37336601307189543,
+        0.19128787878787878
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C506",
+        "LOCKWOOD-Room-WEB-535B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-505B": [
+      [
+        0.3415032679738562,
+        0.10164141414141414
+      ],
+      [
+        "LOCKWOOD-C505",
+        "LOCKWOOD-Room-WEB-505C",
+        "LOCKWOOD-Room-WEB-504D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-505C": [
+      [
+        0.3480392156862745,
+        0.09090909090909094
+      ],
+      [
+        "LOCKWOOD-Room-WEB-505B",
+        "LOCKWOOD-Room-WEB-505D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-505D": [
+      [
+        0.3488562091503268,
+        0.08270202020202022
+      ],
+      [
+        "LOCKWOOD-Room-WEB-505C",
+        "LOCKWOOD-Room-WEB-506"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-506": [
+      [
+        0.4305555555555556,
+        0.08080808080808077
+      ],
+      [
+        "LOCKWOOD-Room-WEB-507",
+        "LOCKWOOD-Room-WEB-505D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-507": [
+      [
+        0.45016339869281047,
+        0.08080808080808077
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S508",
+        "LOCKWOOD-Room-WEB-506"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-509": [
+      [
+        0.4869281045751634,
+        0.09785353535353536
+      ],
+      [
+        "LOCKWOOD-Room-WEB-509A",
+        "LOCKWOOD-Room-WEB-S508"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-509A": [
+      [
+        0.47344771241830064,
+        0.12310606060606055
+      ],
+      [
+        "LOCKWOOD-Room-WEB-510",
+        "LOCKWOOD-Room-WEB-509",
+        "LOCKWOOD-C505"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-510": [
+      [
+        0.5118464052287581,
+        0.08838383838383834
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511",
+        "LOCKWOOD-Room-WEB-509A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511": [
+      [
+        0.5228758169934641,
+        0.101010101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511B",
+        "LOCKWOOD-Room-WEB-510"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511A": [
+      [
+        0.5253267973856209,
+        0.19128787878787878
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511E",
+        "LOCKWOOD-Room-WEB-535C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511B": [
+      [
+        0.5285947712418301,
+        0.10164141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511C",
+        "LOCKWOOD-Room-WEB-511"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511C": [
+      [
+        0.5347222222222222,
+        0.05681818181818177
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511D",
+        "LOCKWOOD-Room-WEB-511B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511D": [
+      [
+        0.5575980392156863,
+        0.10164141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511C",
+        "LOCKWOOD-Room-WEB-511E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-511E": [
+      [
+        0.5424836601307189,
+        0.17739898989898994
+      ],
+      [
+        "LOCKWOOD-Room-WEB-511D",
+        "LOCKWOOD-Room-WEB-511A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-512": [
+      [
+        0.5465686274509803,
+        0.5
+      ],
+      [
+        "LOCKWOOD-Room-WEB-512B",
+        "LOCKWOOD-Room-WEB-512A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-512A": [
+      [
+        0.5351307189542484,
+        0.5012626262626263
+      ],
+      [
+        "LOCKWOOD-Room-WEB-512",
+        "LOCKWOOD-Room-WEB-C512"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-512B": [
+      [
+        0.5812908496732027,
+        0.509469696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-512M",
+        "LOCKWOOD-Room-WEB-512"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-512M": [
+      [
+        0.5731209150326797,
+        0.6212121212121212
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S513",
+        "LOCKWOOD-Room-WEB-512B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-514": [
+      [
+        0.5543300653594772,
+        0.6723484848484849
+      ],
+      [
+        "LOCKWOOD-Room-WEB-S513",
+        "LOCKWOOD-Room-WEB-C518"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-515": [
+      [
+        0.5669934640522876,
+        0.716540404040404
+      ],
+      [
+        "LOCKWOOD-Room-WEB-516",
+        "LOCKWOOD-Room-WEB-S513"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-516": [
+      [
+        0.5669934640522876,
+        0.7462121212121212
+      ],
+      [
+        "LOCKWOOD-Room-WEB-517",
+        "LOCKWOOD-Room-WEB-515"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-517": [
+      [
+        0.5669934640522876,
+        0.8289141414141414
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518D",
+        "LOCKWOOD-Room-WEB-516"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518": [
+      [
+        0.3852124183006536,
+        0.8421717171717171
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518C",
+        "LOCKWOOD-Room-WEB-518F"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518A": [
+      [
+        0.4513888888888889,
+        0.7083333333333333
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518B",
+        "LOCKWOOD-Room-WEB-535D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518B": [
+      [
+        0.4513888888888889,
+        0.7392676767676767
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C518",
+        "LOCKWOOD-Room-WEB-518A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518C": [
+      [
+        0.4513888888888889,
+        0.8042929292929293
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C518",
+        "LOCKWOOD-Room-WEB-518"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518D": [
+      [
+        0.4522058823529412,
+        0.88510101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518E",
+        "LOCKWOOD-Room-WEB-517"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518E": [
+      [
+        0.3116830065359477,
+        0.88510101010101
+      ],
+      [
+        "LOCKWOOD-Room-WEB-520",
+        "LOCKWOOD-Room-WEB-518D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-518F": [
+      [
+        0.30718954248366015,
+        0.8042929292929293
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518",
+        "LOCKWOOD-Room-WEB-526A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-519": [
+      [
+        0.3394607843137255,
+        0.7070707070707071
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C519",
+        "LOCKWOOD-Room-WEB-526B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-520": [
+      [
+        0.22508169934640523,
+        0.8592171717171717
+      ],
+      [
+        "LOCKWOOD-Room-WEB-520A",
+        "LOCKWOOD-Room-WEB-518E"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-520A": [
+      [
+        0.22508169934640523,
+        0.8049242424242424
+      ],
+      [
+        "LOCKWOOD-Room-WEB-520B",
+        "LOCKWOOD-Room-WEB-520"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-520B": [
+      [
+        0.22508169934640523,
+        0.7708333333333334
+      ],
+      [
+        "LOCKWOOD-Room-WEB-520C",
+        "LOCKWOOD-Room-WEB-520A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-520C": [
+      [
+        0.22508169934640523,
+        0.7430555555555556
+      ],
+      [
+        "LOCKWOOD-Room-WEB-521",
+        "LOCKWOOD-Room-WEB-520B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-521": [
+      [
+        0.22508169934640523,
+        0.7064393939393939
+      ],
+      [
+        "LOCKWOOD-Room-WEB-522",
+        "LOCKWOOD-Room-WEB-520C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-522": [
+      [
+        0.22508169934640523,
+        0.6698232323232323
+      ],
+      [
+        "LOCKWOOD-Room-WEB-523",
+        "LOCKWOOD-Room-WEB-521"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-523": [
+      [
+        0.22508169934640523,
+        0.6420454545454546
+      ],
+      [
+        "LOCKWOOD-Room-WEB-524",
+        "LOCKWOOD-Room-WEB-522"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-524": [
+      [
+        0.22508169934640523,
+        0.6142676767676767
+      ],
+      [
+        "LOCKWOOD-Room-WEB-501C",
+        "LOCKWOOD-Room-WEB-523"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-525": [
+      [
+        0.28799019607843135,
+        0.6268939393939394
+      ],
+      [
+        "LOCKWOOD-Room-WEB-526A",
+        "LOCKWOOD-Room-WEB-526",
+        "LOCKWOOD-Room-WEB-S530"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-526": [
+      [
+        0.3043300653594771,
+        0.7032828282828283
+      ],
+      [
+        "LOCKWOOD-Room-WEB-525",
+        "LOCKWOOD-Room-WEB-C519"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-526A": [
+      [
+        0.2769607843137255,
+        0.6571969696969697
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518F",
+        "LOCKWOOD-Room-WEB-525"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-526B": [
+      [
+        0.3431372549019608,
+        0.6976010101010102
+      ],
+      [
+        "LOCKWOOD-Room-WEB-519",
+        "LOCKWOOD-Room-WEB-E527"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-535A": [
+      [
+        0.31086601307189543,
+        0.4078282828282829
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C501",
+        "LOCKWOOD-Room-WEB-C530",
+        "LOCKWOOD-Room-WEB-501D"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-535B": [
+      [
+        0.39950980392156865,
+        0.2676767676767676
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C502",
+        "LOCKWOOD-Room-WEB-505A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-535C": [
+      [
+        0.48937908496732024,
+        0.4690656565656566
+      ],
+      [
+        "LOCKWOOD-Room-WEB-C512",
+        "LOCKWOOD-Room-WEB-511A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-535D": [
+      [
+        0.4456699346405229,
+        0.6723484848484849
+      ],
+      [
+        "LOCKWOOD-Room-WEB-518A",
+        "LOCKWOOD-Room-WEB-C530"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C501": [
+      [
+        0.3002450980392157,
+        0.4217171717171717
+      ],
+      [
+        "LOCKWOOD-Room-WEB-535A",
+        "LOCKWOOD-Room-WEB-501A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C502": [
+      [
+        0.3668300653594771,
+        0.27462121212121215
+      ],
+      [
+        "LOCKWOOD-Room-WEB-501D",
+        "LOCKWOOD-Room-WEB-535B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C506": [
+      [
+        0.38235294117647056,
+        0.1609848484848485
+      ],
+      [
+        "LOCKWOOD-C505",
+        "LOCKWOOD-Room-WEB-505A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C512": [
+      [
+        0.5,
+        0.4665404040404041
+      ],
+      [
+        "LOCKWOOD-Room-WEB-512A",
+        "LOCKWOOD-Room-WEB-535C"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C518": [
+      [
+        0.4812091503267974,
+        0.7601010101010102
+      ],
+      [
+        "LOCKWOOD-Room-WEB-514",
+        "LOCKWOOD-Room-WEB-518C",
+        "LOCKWOOD-Room-WEB-518B"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C519": [
+      [
+        0.3059640522875817,
+        0.7127525252525253
+      ],
+      [
+        "LOCKWOOD-Room-WEB-526",
+        "LOCKWOOD-Room-WEB-519"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-C530": [
+      [
+        0.3459967320261438,
+        0.6142676767676767
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E529",
+        "LOCKWOOD-Room-WEB-535D",
+        "LOCKWOOD-Room-WEB-535A"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E527": [
+      [
+        0.35294117647058826,
+        0.6698232323232323
+      ],
+      [
+        "LOCKWOOD-Room-WEB-526B",
+        "LOCKWOOD-Room-WEB-E528"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E528": [
+      [
+        0.3410947712418301,
+        0.6515151515151515
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E527",
+        "LOCKWOOD-Room-WEB-E529"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-E529": [
+      [
+        0.32883986928104575,
+        0.6319444444444444
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E528",
+        "LOCKWOOD-Room-WEB-C530",
+        "LOCKWOOD-Room-WEB-S530"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S502": [
+      [
+        0.22426470588235295,
+        0.27335858585858586
+      ],
+      [
+        "LOCKWOOD-Room-WEB-503",
+        "LOCKWOOD-Room-WEB-501P",
+        "LOCKWOOD-Room-WEB-S402"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S508": [
+      [
+        0.4840686274509804,
+        0.07133838383838387
+      ],
+      [
+        "LOCKWOOD-Room-WEB-509",
+        "LOCKWOOD-Room-WEB-507",
+        "LOCKWOOD-Room-WEB-S408"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S513": [
+      [
+        0.5751633986928104,
+        0.6679292929292929
+      ],
+      [
+        "LOCKWOOD-Room-WEB-515",
+        "LOCKWOOD-Room-WEB-514",
+        "LOCKWOOD-Room-WEB-512M",
+        "LOCKWOOD-Room-WEB-S413"
+      ]
+    ],
+    "LOCKWOOD-Room-WEB-S530": [
+      [
+        0.3084150326797386,
+        0.6470959595959596
+      ],
+      [
+        "LOCKWOOD-Room-WEB-E529",
+        "LOCKWOOD-Room-WEB-525",
+        "LOCKWOOD-Room-WEB-S430"
+      ]
+    ],
+    "LOCKWOOD-C505": [
+      [
+        0.41171617161716173,
+        0.11989795918367346
+      ],
+      [
+        "LOCKWOOD-Room-WEB-509A",
+        "LOCKWOOD-Room-WEB-505B",
+        "LOCKWOOD-Room-WEB-C506"
+      ]
+    ]
+  }
